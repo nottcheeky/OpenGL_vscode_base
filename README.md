@@ -1,1 +1,3 @@
-# OpenGL_vscode_base
+# OpenGL vscode base
+
+Default OpenGl Config
